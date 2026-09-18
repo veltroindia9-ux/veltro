@@ -1,0 +1,6 @@
+{
+  "name": "VELTRO — Premium Sportswear",
+  "description": "Premium athletic apparel engineered for those who refuse to settle. PLAY BEYOND.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
